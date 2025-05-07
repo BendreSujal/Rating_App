@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Rating App with Flutter navigation
 
 ![AppImage](https://github.com/BendreSujal/Rating_App/blob/8a47ec33790ae1bc54d471affbfd34ab950c5f2b/app%20images/screen1.jpg)
@@ -7,12 +8,16 @@
 =======
 # flutter_p2
 >>>>>>> 456209f (Second commit)
+=======
+# flutter_p2 
+>>>>>>> 7349086 (Second commit)
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+New repo commit
 
 A few resources to get you started if this is your first Flutter project:
 
