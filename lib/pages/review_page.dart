@@ -14,7 +14,11 @@ class _ReviewPageState extends State<ReviewPage> {
 
   @override
   void initState() {
+<<<<<<< HEAD
     super.initState(); 
+=======
+    super.initState();
+>>>>>>> 456209f (Second commit)
     ratingCount = widget.ratingCount;
   }
 
@@ -66,10 +70,18 @@ class _ReviewPageState extends State<ReviewPage> {
             ),
             SizedBox(height: 20,),
             Center(
+<<<<<<< HEAD
               child: Text(' $ratingCount', style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
               ),),
+=======
+              child: Text('$ratingCount', style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.bold,
+              ),
+              ),
+>>>>>>> 456209f (Second commit)
             )
           ],
           
@@ -77,4 +89,8 @@ class _ReviewPageState extends State<ReviewPage> {
       ),
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 456209f (Second commit)

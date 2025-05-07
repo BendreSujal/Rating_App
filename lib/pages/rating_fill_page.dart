@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 import 'package:flutter_p2/pages/review_page.dart';
+=======
+>>>>>>> 456209f (Second commit)
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 
 class RatingFillPage extends StatefulWidget {
@@ -49,7 +52,11 @@ class _RatingFillPageState extends State<RatingFillPage> {
               )
             ),
             ElevatedButton(onPressed: () { Navigator.pop(
+<<<<<<< HEAD
               context, rating,
+=======
+              context, rating
+>>>>>>> 456209f (Second commit)
             );
             }, 
             child: Text('Submit'))
